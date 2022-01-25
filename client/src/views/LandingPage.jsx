@@ -12,6 +12,7 @@ const LandingPage = (props) => {
    <Blogs></Blogs>
    <ToolsTech></ToolsTech>
    
+   <p>I am testing to see if I need to run npm run build every time before pushing code to github.</p>
 
   </div>;
 };
