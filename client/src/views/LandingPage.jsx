@@ -2,7 +2,7 @@ import React from 'react';
 import AboutMe from '../components/LandingPage/AboutMe';
 import Blogs from '../components/LandingPage/Blogs';
 import ToolsTech from '../components/LandingPage/ToolsTech';
-import modules from "../modules/LandingPage.modules.css"
+// import modules from "../modules/LandingPage.modules.css"
 
 
 const LandingPage = (props) => {
@@ -13,6 +13,8 @@ const LandingPage = (props) => {
    <ToolsTech></ToolsTech>
    
    <p>I am testing to see if I need to run npm run build every time before pushing code to github.</p>
+   <p>I am testing to see if I need to run npm run build every no build with unused var committed out.</p>
+
 
   </div>;
 };
