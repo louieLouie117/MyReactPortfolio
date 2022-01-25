@@ -2,7 +2,7 @@ import React from 'react';
 import AboutMe from '../components/LandingPage/AboutMe';
 import Blogs from '../components/LandingPage/Blogs';
 import ToolsTech from '../components/LandingPage/ToolsTech';
-import modules from "../modules/LandingPage.modules.css"
+// import modules from "../modules/LandingPage.modules.css"
 
 
 const LandingPage = (props) => {
